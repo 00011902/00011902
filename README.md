@@ -4,7 +4,7 @@ In my web technology course work I have chosen Kamolon polov center. Since they 
 
 
 Links:
-[https://majestic-horse-ca1e0e.netlify.app/](https://00011902.netlify.app/)
+https://00011902.netlify.app/
 
 github:
 https://github.com/00011902/00011902
